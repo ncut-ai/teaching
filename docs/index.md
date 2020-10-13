@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages
 
-![Image](../resources/1111409.png)
+![Image](http://www.ncut.edu.cn/images/logo.png)
 <img src="http://www.ncut.edu.cn/images/logo.png" width="50%">
 You can use the [editor on GitHub](https://github.com/ncut-ai/teaching/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
 
