@@ -23,7 +23,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](resources/1469310625world-plants-vs-zombies.jpg)
+[Link](url) and ![Image](https://github.com/ncut-ai/teaching/blob/main/resources/1469310625world-plants-vs-zombies.jpg)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
