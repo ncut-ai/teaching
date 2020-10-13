@@ -1,6 +1,7 @@
 ## Welcome to GitHub Pages
 
 ![Image](../resources/1469310625world-plants-vs-zombies.jpg)
+<img src="../resources/1469310625world-plants-vs-zombies.jpg" width="50%">
 You can use the [editor on GitHub](https://github.com/ncut-ai/teaching/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
