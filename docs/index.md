@@ -1,7 +1,11 @@
 ## Welcome to GitHub Pages
 
 ![Image](http://www.ncut.edu.cn/images/logo.png)
-<img src="../resources/1111409.png">
+<img src="https://github.com/ncut-ai/teaching/blob/main/resources/1111409.png">
+
+## test pics
+![ncut](https://github.com/ncut-ai/teaching/blob/main/resources/1111409.png)
+
 You can use the [editor on GitHub](https://github.com/ncut-ai/teaching/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
