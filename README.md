@@ -1,5 +1,5 @@
-# 北方工业大学 交通仿真技术课程
- 教学相关
+# 北方工业大学 交通仿真技术课程 ![Image](http://www.ncut.edu.cn/images/logo.png)
+ SUMO教学相关
 ## 软件下载、安装与环境配置
 
 ### Python
