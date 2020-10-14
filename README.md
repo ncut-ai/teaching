@@ -38,3 +38,9 @@ SUMO的仿真至少需要两个文件：
 
 #### 教程
 如果想要了解更多的话，请参考sumo官方文档http://www.sumo.dlr.de/userdoc/SUMO-GUI.html
+
+## Sumo上机指导
+
+见文件夹“Sumo上机指导”
+
+## Python调用TraCI上机指导
