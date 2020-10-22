@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- generated on 2020-02-17 13:29:24.932746 by turnFile2EdgeRelations.py v1_5_0+0118-a6ba6eb
+  options: -t input_turns.turns.xml -o tmp.xml
+-->
+<edgeRelations xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/edgerelations_file.xsd">
+    <interval begin="0" end="3600">
+        <edgeRelation from="gneE9" to="gneE0" probability="1"/>
+		
+        <edgeRelation from="gneE0" to="gneE6" probability=".2"/>
+        <edgeRelation from="gneE0" to="gneE2" probability=".7"/>
+        <edgeRelation from="gneE0" to="gneE4" probability=".1"/>
+		
+        <edgeRelation from="gneE7" to="gneE1" probability=".2"/>
+        <edgeRelation from="gneE7" to="gneE2" probability=".3"/>
+        <edgeRelation from="gneE7" to="gneE4" probability=".5"/>
+		
+        <edgeRelation from="gneE3" to="gneE1" probability=".7"/>
+        <edgeRelation from="gneE3" to="gneE4" probability=".2"/>
+        <edgeRelation from="gneE3" to="gneE6" probability=".1"/>
+		
+        <edgeRelation from="gneE5" to="gneE1" probability=".2"/>
+        <edgeRelation from="gneE5" to="gneE6" probability=".7"/>
+        <edgeRelation from="gneE5" to="gneE2" probability=".1"/>
+
+
+    </interval>
+</edgeRelations>

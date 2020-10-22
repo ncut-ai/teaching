@@ -1,0 +1,13 @@
+https://sumo.dlr.de/docs/Demand/Routing_by_Turn_Probabilities.html#sinks_definitions
+
+Sinks Definitions
+A vehicle leaves the network as soon as it comes to a sink edge. As not all networks have sink edges defined, one can support a list of edges to be declared as sinks using --sinks <EDGE_ID>[,<EDGE_ID>]*. You may also add your sink definitions to a turn-file (XML only):
+
+<turns>
+   ... some further turning definitions as above ...
+
+   <sink edges="<EDGE_ID>[ <EDGE_ID>]*"/>
+   ... further sink definitions ...
+
+</turns>
+If you do not define sinks, the option --accept-all-destinations <BOOL> may be used to declare all edge as possible sinks.

@@ -1,0 +1,8 @@
+<routes>
+
+    <flow id="0" from="gneE9" begin="0" end="3600" number="1000"/>
+	<flow id="1" from="gneE7" begin="0" end="3600" number="1000"/>
+	<flow id="2" from="gneE3" begin="0" end="3600" number="1000"/>
+	<flow id="3" from="gneE5" begin="0" end="3600" number="1000"/>
+
+</routes>
