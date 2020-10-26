@@ -1,25 +1,12 @@
-## Welcome to GitHub Pages
-
+## 北方工业大学《交通仿真技术》Sumo部分教学
+https://ncut-ai.github.io/teaching/
 ![Image](http://www.ncut.edu.cn/images/logo.png)
 <img src="https://github.com/ncut-ai/teaching/blob/main/resources/1111409.png">
 
-## test pics
-![ncut](https://github.com/ncut-ai/teaching/blob/main/resources/1111409.png)
-
-You can use the [editor on GitHub](https://github.com/ncut-ai/teaching/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
 ### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
 Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
 
 - Bulleteds
 - List
@@ -28,16 +15,4 @@ Syntax highlighted code block
 2. List
 
 **Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](resources/1469310625world-plants-vs-zombies.jpg)
 ```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ncut-ai/teaching/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
