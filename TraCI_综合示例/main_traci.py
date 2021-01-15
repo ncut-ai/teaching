@@ -62,13 +62,13 @@ if __name__ == "__main__":
 
     traci.start(sumo_start_config_gui)
 
-    step = 0
-    while step < 3600:
-        traci.simulationStep()
-        step += 1
+    step=0
+    while step < 36:
 
+        traci.simulationStep()
+
+        step += 1
         # traffic_light_value_retrieve() # 获取信号配时相关参数
         # lane_value_retrieve() # 获取车道上的参数
         # edge_value_retrieve() # 获取 边 上的数据
-
 
