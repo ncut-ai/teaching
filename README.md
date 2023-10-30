@@ -1,5 +1,5 @@
 
-# 重要声明：考虑到国内同学们的使用情况，本项目已迁移至([https://gitee.com/deep-marl/sumoclass](https://gitee.com/deep-marl/sumoclass))！
+# 重要声明：考虑到国内同学们的使用情况，本项目已迁移至([https://gitee.com/itsncut](https://gitee.com/itsncut))！
 
 
 ![Image](http://www.ncut.edu.cn/images/logo.png)
